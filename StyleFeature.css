@@ -1,0 +1,26 @@
+*{
+    padding:0;
+    margin:0;
+}
+
+body{
+    background-image: url("images/1.png");
+    background-repeat: no-repeat;
+    background-size: cover;
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    
+}
+h1{
+    margin: 30px 0px;
+    text-align: center;
+    /* font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif; */
+}
+
+p{
+    margin-left: 23%;
+}
+.Form{
+    padding-top:30px;
+   width:60%;
+   margin-left:30%;
+}

@@ -1,0 +1,72 @@
+*{
+    margin:0px 0px;
+    padding:0;
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+}
+
+body{
+  font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+}
+.carousel-item {
+    height: 745px;
+  }
+
+h3{
+    color:black;
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+
+}
+
+
+
+
+
+.Button a {
+    text-decoration: underline;
+    color: #2e3944;
+    font-size: 20px;
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+}
+
+
+.buttonClass {
+  font-size:15px;
+  font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+  width:200px;
+  height:40px;
+  border-width:1px;
+  border-color:#566963;
+  font-weight:bold;
+  border-top-left-radius:5px;
+  border-top-right-radius:5px;
+  border-bottom-left-radius:5px;
+  border-bottom-right-radius:5px;
+  box-shadow:inset 0px 1px 3px 0px #91b8b3;
+  text-shadow:inset 0px -1px 0px #2b665e;
+  background:linear-gradient(#829b94, #33965e);
+  margin-left: 43%;
+  align-content: center;
+  padding-top:9px;
+  font-size: 16px;
+  
+ 
+}
+
+
+.buttonClass a{
+    padding-top: 30px;
+    color: black;
+    text-decoration: none;
+    
+}
+.buttonClass:hover {
+  background: linear-gradient(#6c7c7c, #768d87);
+
+}
+
+.buttonClass:active {
+    color:black;
+    
+  }
+              
+

@@ -1,0 +1,38 @@
+body{
+  background-image: url("images/1.png");
+  background-repeat: no-repeat;
+  background-size: cover;
+  font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+}
+
+.Form{
+    display: inline;
+    position: absolute;
+    padding: 0px 20px;
+    left:33%;
+    padding-top: 10%;
+    padding-bottom: 50px;
+  }
+  
+  
+  #name{
+    width:500px;
+    height: 40px;
+    border-radius: 15px;
+  }
+  
+  #Email{
+    width:500px;
+    height: 40px;
+    border-radius: 15px;
+  }
+  
+  #Submit{
+    width:500px;
+    height: 40px;
+    background-color: rgb(209, 50, 105);
+    border-radius: 15px;
+    cursor: pointer;
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    font-weight: bold;
+  }
